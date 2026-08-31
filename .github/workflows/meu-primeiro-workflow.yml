@@ -17,6 +17,3 @@ jobs:
 
             - name: Exibir IP
               run: ip a
-
-            - name: ping google
-              run: ping -c 100 8.8.8.8 
